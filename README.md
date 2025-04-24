@@ -1,2 +1,2 @@
 # my-image-host
-images
+images and videos
